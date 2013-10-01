@@ -1,4 +1,4 @@
-progresiveOpacity
+progressiveOpacity
 =================
 
 Very simple and easy to use jQuery function that makes elements to appear progressively while scrolling.
